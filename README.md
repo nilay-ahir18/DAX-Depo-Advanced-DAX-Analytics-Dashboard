@@ -80,13 +80,13 @@ The dashboard was developed using a Sales and Returns dataset and follows a Star
 
 ### Power Query Data Cleaning
 
-![Power Query Data Cleaning](screenshots/power-query-data-cleaning.png)
+![Power Query Data Cleaning](screenshots/power-query.png)
 
 ---
 
 ### Data Model & Relationships
 
-![Data Model & Relationships](screenshots/data-model-relationships.png)
+![Data Model & Relationships](screenshots/data-model.png)
 
 ---
 
@@ -102,9 +102,7 @@ The dashboard was developed using a Sales and Returns dataset and follows a Star
 
 ---
 
-### DAX Measures
 
-![DAX Measures](screenshots/dax-measures.png)
 
 ---
 
